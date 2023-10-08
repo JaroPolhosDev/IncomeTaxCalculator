@@ -6200,11 +6200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wuhan\\source\\repos\\Customers API\\Customers API\\Customers API.csproj",
+      "projectUniqueName": "D:\\IncomeTaxCalculator\\src\\Microservices\\Customers API\\Customers API.csproj",
       "projectName": "Customers API",
-      "projectPath": "C:\\Users\\wuhan\\source\\repos\\Customers API\\Customers API\\Customers API.csproj",
+      "projectPath": "D:\\IncomeTaxCalculator\\src\\Microservices\\Customers API\\Customers API.csproj",
       "packagesPath": "C:\\Users\\wuhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wuhan\\source\\repos\\Customers API\\Customers API\\obj\\",
+      "outputPath": "D:\\IncomeTaxCalculator\\src\\Microservices\\Customers API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

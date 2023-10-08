@@ -51,3 +51,62 @@ C:\Users\wuhan\source\repos\Customers API\Customers API\bin\Debug\net6.0\runtime
 C:\Users\wuhan\source\repos\Customers API\Customers API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\wuhan\source\repos\Customers API\Customers API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\wuhan\source\repos\Customers API\Customers API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.csproj.AssemblyReference.cache
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.GeneratedMSBuildEditorConfig.editorconfig
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.AssemblyInfoInputs.cache
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.AssemblyInfo.cs
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.csproj.CoreCompileInputs.cache
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.MvcApplicationPartsAssemblyInfo.cs
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.MvcApplicationPartsAssemblyInfo.cache
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\refint\Customers API.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.pdb
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\src\appsettings.Development.json
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\src\appsettings.json
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\src\Properties\launchSettings.json
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Customers API.exe
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Customers API.deps.json
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Customers API.runtimeconfig.json
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Customers API.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Customers API.pdb
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\AutoFixture.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Castle.Core.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\EntityFramework.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Fare.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\FluentValidation.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Moq.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\System.CodeDom.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\staticwebassets\msbuild.Customers API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\staticwebassets\msbuild.build.Customers API.props
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Customers API.props
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Customers API.props
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\staticwebassets.build.json
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\staticwebassets.development.json
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\scopedcss\bundle\Customers API.styles.css
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.csproj.CopyComplete
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\Customers API.genruntimeconfig.cache
+D:\IncomeTaxCalculator\src\Microservices\Customers API\obj\Debug\net6.0\ref\Customers API.dll

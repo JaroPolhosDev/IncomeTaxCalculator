@@ -23,8 +23,4 @@
     <None Update="..\.dockerignore" Link="src\.dockerignore" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="tests\" />
-  </ItemGroup>
-
 </Project>
